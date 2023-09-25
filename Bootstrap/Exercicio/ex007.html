@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+</head>
+
+<body>
+
+    <nav class="navbar bg-secondary navbar-dark navbar-expand-sm ">
+        <div class="container">
+            <a href="#" class="navbar-brand">
+                <i class="bi bi-bootstrap-fill fs-2"></i>
+                Bootstrap
+            </a>
+            <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="navbar-collapse collapse justify-content-end" id="menu">
+                <div class="navbar-nav ">
+
+                    <a href="#" class="nav-link">Home</a>
+
+
+
+
+                    <div class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Teoria</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="/01_botoes2.html" class="dropdown-item"> Botões</a>
+                            </li>
+                            <li>
+
+                                <a href="/index.html" class="dropdown-item"><i class="bi bi-archive-fill"></i> Index</a>
+                            </li>
+                            <li>
+                                <a href="/02_SiteResponsivo.html" class="dropdown-item"><i
+                                        class="bi bi-archive-fill"></i> Responsivo</a>
+                            </li>
+                            <li>
+                                <a href="/03_Icones.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Icones</a>
+                            </li>
+                            <li>
+                                <a href="/04_forms.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Forms</a>
+                            </li>
+                            <li>
+                                <a href="/05_Tabelas.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Tabelas</a>
+                            </li>
+                            <li>
+                                <a href="/06_SistemaGrid.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    SGrid</a>
+                            </li>
+                            <li>
+                                <a href="/07-dflex.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Dflex</a>
+                            </li>
+                            <li>
+                                <a href="/08-Paginacao.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Paginação</a>
+                            </li>
+                            <li>
+                                <a href="/09-Navbar.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Navbar</a>
+                            </li>
+                            <li>
+                                <a href="/10-Carousel.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Corousel</a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+
+
+
+                    <div class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Exercicios</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="ex001.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    EX001</a>
+
+                            </li>
+                            <li>
+                                <a href="ex002.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    EX002</a>
+
+                            </li>
+                            <li>
+                                <a href="ex003.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    EX003</a>
+
+                            </li>
+                            <li>
+                                <a href="ex004.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    EX004</a>
+
+                            </li>
+                            <li>
+                                <a href="ex005.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    EX005</a>
+
+                            </li>
+                            <li>
+                                <a href="ex006.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    EX006</a>
+
+                            </li>
+                            <li>
+                                <a href="feedback.html" class="dropdown-item"><i class="bi bi-archive-fill"></i>
+                                    Feedback</a>
+
+                            </li>
+                            
+
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+
+    </nav>
+
+
+
+
+
+
+    <main>
+        <!--Sessão do carrossel-->
+        <section id="meucarrossel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+            <!--Indicadores do banner-->
+
+            <div class="carousel-indicators">
+
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="3"></button>
+
+            </div>
+            <!--Lista de  imagens - Banners-->
+            <div class="carousel-inner">
+                <!--Imagem-->
+
+                <div class="carousel-item active" data-bs-interval="1000">
+                    <img src="https://picsum.photos/1280/420?random=1" class="w-100 d-block">
+                    <div class="carousel-caption">
+                        <h4>São Paulo</h4>
+                        <p class="text-warning">Trimundial</p>
+                        <button class="btn-primary">Saiba Mais</button>
+                    </div>
+
+
+
+
+                </div>
+                <!--Imagem 2-->
+                <div class="carousel-item">
+                    <img src="https://picsum.photos/1280/420?random=2" class="w-100 d-block">
+                </div>
+                <!--Imagem 3-->
+                <div class="carousel-item">
+                    <img src="https://picsum.photos/1280/420?random=3" class="w-100 d-block">
+
+                </div>
+
+                <div class="carousel-item">
+                    <img src="https://picsum.photos/1280/420?random=4" class="w-100 d-block">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#meucarrossel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </button>
+
+            <button class="carousel-control-next" type="button" data-bs-target="#meucarrossel" data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </button>
+            <button></button>
+
+        </section>
+
+    </main>
+
+
+
+
+
+
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+    crossorigin="anonymous"></script>
+
+</html>
