@@ -1,0 +1,31 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\Aula_4 - Graficos.staticwebassets.runtime.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\Aula_4 - Graficos.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\Aula_4 - Graficos.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\Aula_4 - Graficos.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\Aula_4 - Graficos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\bin\Debug\net7.0\Aula_4 - Graficos.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.RazorAssemblyInfo.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.RazorAssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets\msbuild.Aula_4 - Graficos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets\msbuild.build.Aula_4 - Graficos.props
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Aula_4 - Graficos.props
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Aula_4 - Graficos.props
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\scopedcss\bundle\Aula_4 - Graficos.styles.css
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\scopedcss\projectbundle\Aula_4 - Graficos.bundle.scp.css
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\refint\Aula_4 - Graficos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\Aula_4 - Graficos.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Front-End\JS_2sem\Aula_4 - Graficos\obj\Debug\net7.0\ref\Aula_4 - Graficos.dll
